@@ -53,12 +53,3 @@
 | `DELETE` | `/api/users/:id` | Delete user account |
 
 
-
----
-
-## 🚀 Installation & Setup
-
-1️⃣ **Clone the Repository**
-```sh
-git clone https://github.com/your-username/Railway_Management_System.git
-cd Railway_Management_System
