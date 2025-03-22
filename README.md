@@ -53,3 +53,7 @@
 | `DELETE` | `/api/users/:id` | Delete user account |
 
 
+## Author
+**Mohan Kumar**
+
+
